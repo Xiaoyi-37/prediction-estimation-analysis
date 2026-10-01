@@ -45,7 +45,12 @@ Overall, **better predictive accuracy does not necessarily imply better estimati
 
 ## Tools
 
-R · Monte Carlo Simulation · Survey Sampling · Missing Data · Predictive Modeling
+- R
+
+## Methods
+
+Monte Carlo Simulation · Survey Sampling · Missing Data · Predictive Modeling
+
 
 ## Authors
 
