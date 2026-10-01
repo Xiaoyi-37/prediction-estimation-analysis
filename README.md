@@ -12,7 +12,7 @@ Using a simulated finite population, we compared prediction and estimation perfo
 - Missing-data imputation
 - Reweighting / inverse probability weighting
 
-For each setting, repeated simple random samples were drawn and multiple statistical and machine-learning models were evaluated using mean squared error (MSE). :chatgpt-content-reference{index="0"}
+For each setting, repeated simple random samples were drawn and multiple statistical and machine-learning models were evaluated using mean squared error (MSE).
 
 ## Methods
 
@@ -41,7 +41,7 @@ The relationship between prediction and estimation depended on the estimation me
 - **Imputation:** better prediction did not always produce a better estimator, although very poor predictive models generally performed poorly in estimation.
 - **Reweighting:** prediction accuracy and estimator performance could differ substantially.
 
-Overall, **better predictive accuracy does not necessarily imply better estimation performance**. :chatgpt-content-reference{index="1"}
+Overall, **better predictive accuracy does not necessarily imply better estimation performance**.
 
 ## Tools
 
